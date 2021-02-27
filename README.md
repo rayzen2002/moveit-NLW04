@@ -108,5 +108,5 @@ Emanuel Magalhaes
 
 [LinkedIn](https://www.linkedin.com/in/emanuel-magalh%C3%A3es-aa3954b8/)
 
-Readme forked do modelo da Rocketseat [Elias Gabriel](https://rocketseat.com.br/)
+Readme forked do modelo da [Rocketseat](https://rocketseat.com.br/)
 
